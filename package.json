@@ -1,0 +1,16 @@
+{
+  "name": "@imjustlucas/prettier-config",
+  "version": "1.0.1",
+  "description": "Awesome prettier config for all your projects",
+  "main": "index.json",
+  "license": "MIT",
+  "keywords": [
+    "prettier",
+    "prettier-config"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/imjustlucas/prettier-config"
+  },
+  "homepage": "https://github.com/imjustlucas/prettier-config"
+}
