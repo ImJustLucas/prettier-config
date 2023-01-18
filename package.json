@@ -1,12 +1,15 @@
 {
   "name": "@imjustlucas/prettier-config",
-  "version": "1.0.1",
-  "description": "Awesome prettier config for all your projects",
+  "version": "1.0.2",
+  "description": "An awesome prettier setup for all your projects",
   "main": "index.json",
   "license": "MIT",
   "keywords": [
     "prettier",
-    "prettier-config"
+    "prettier-config",
+    "prettier-config-imjustlucas",
+    "@imjustlucas",
+    "@imjustlucas/prettier-config"
   ],
   "repository": {
     "type": "git",
