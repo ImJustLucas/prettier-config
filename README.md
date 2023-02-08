@@ -9,7 +9,7 @@ Contract your projects with a single source of truth
 Make sure that prettier is installed on your project, if not, add it
 
 ```bash
-yarn add --D prettier
+yarn add -D prettier
 ```
 
 ## ⚡️ Installation
@@ -17,7 +17,7 @@ yarn add --D prettier
 Add the `@imjustlucas/prettier-config` to your project:
 
 ```bash
-yarn add --D @imjustlucas/prettier-config
+yarn add -D @imjustlucas/prettier-config
 ```
 
 Once installed, go to your `package.json` file and add the `prettier` property
